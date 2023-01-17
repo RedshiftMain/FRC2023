@@ -36,6 +36,9 @@ public final class Constants {
 
                 public static final double DrivetrainWidth = .508; //Meters
 
+                public static final double TicksPerRadian = 0; 
+
+                public static final double SpeedMultiplier = 0;
                 
         }
 }
